@@ -11,7 +11,7 @@ A simple Arduino class to handle **rotary encoders with push button**, supportin
 
 1. Add `EncoderHandler.h` and `EncoderHandler.cpp` to your Arduino project.
 2. Include in your sketch:
-
+```cpp
 #include "EncoderHandler.h"
 
 3. Create  instance:
